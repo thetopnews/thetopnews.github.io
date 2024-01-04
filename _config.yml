@@ -177,7 +177,7 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-# htmlproofer:
-#   url_ignore:
-#     - http://*
-#     - https://*
+htmlproofer:
+  url_ignore:
+    - http://*
+    - https://*
