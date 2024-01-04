@@ -3,15 +3,15 @@ layout: post
 title: "Understanding the Wireless Communication of the Original Xbox 360 Controller"
 date:   2024-01-03 18:44:19 +0000
 categories: ['News','Gaming']
-excerpt_image: http://slagcoin.com/joystick/pcb_diagrams/xbox_diagram4.jpg
-image: http://slagcoin.com/joystick/pcb_diagrams/xbox_diagram4.jpg
+excerpt_image: https://m.media-amazon.com/images/I/41HClyTidhL.jpg
+image: https://m.media-amazon.com/images/I/41HClyTidhL.jpg
 ---
 
 ## The Proprietary Wireless Protocol
 ### Wireless Overview
 The original Xbox 360 controller did not utilize Bluetooth for wireless communication like many assumed. **Microsoft developed a proprietary 2.4GHz wireless protocol** specifically for connecting Xbox 360 controllers and compatible accessories to the Xbox 360 console. While some headsets were marketed as "Bluetooth" compatible, they still required this custom wireless protocol to connect to the controller rather than using standard Bluetooth.
 
-![](https://images.anandtech.com/reviews/system/microsoft/xbox360/wireless.jpg)
+![](https://m.media-amazon.com/images/I/41HClyTidhL.jpg)
 ### Limitations of the Closed Design
 By using a proprietary rather than open standard like Bluetooth, Xbox 360 controllers could only communicate directly with Xbox 360 consoles. This meant users lacked the flexibility to easily connect their controllers to non-Xbox devices without additional wireless adapters. The closed wireless design restricted usage scenarios compared to the wider compatibility possible with Bluetooth and other open standards.
 ## Reliability Issues from Component Design
