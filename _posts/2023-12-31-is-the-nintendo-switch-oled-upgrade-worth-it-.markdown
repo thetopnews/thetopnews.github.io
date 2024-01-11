@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Is the Nintendo Switch OLED Upgrade Worth It?"
+date:   2023-12-31 17:01:19 +0000
+categories: ['News','Gaming']
+excerpt_image: https://i.ytimg.com/vi/uCdSdk_KLJQ/maxresdefault.jpg
+image: https://i.ytimg.com/vi/uCdSdk_KLJQ/maxresdefault.jpg
+---
+
+### Enhanced Portable Gaming Experience with Larger OLED Screen
+The Nintendo Switch OLED model released in October 2021 is the latest version of the popular Switch hybrid console. As Nintendo's first major hardware revision since the original Switch launched in early 2017, the Switch OLED promises an **enhanced portable gaming experience** thanks to its bigger and better OLED screen. 
+While retaining the same processors and hardware specs underneath, the Switch OLED sports a substantial upgrade over the original model's 6.2-inch LCD screen. The Switch OLED features a vibrant 7-inch OLED panel that provides **vibrant colors and deep blacks** for a more immersive visual experience when playing in handheld mode. Its screen is about 20% larger than the original and boasts higher resolutions as well as improved contrasts thanks to the OLED technology. 
+In addition to the better screen, Nintendo has also refined the Switch OLED's **overall build quality and ergonomics**. It ships with a wider adjustable kickstand for more flexible tabletop viewing angles. The console itself is a bit larger and slightly heavier than the original to better accommodate adult hands. Around back, the Switch OLED has enhanced stereo speakers for richer audio compared to the original model's bottom-firing speakers. Storage capacity has also been upgraded to a generous 64GB of internal flash memory from 32GB previously.
+
+![](https://i.ytimg.com/vi/f2Gf2RD_X8Q/maxresdefault.jpg)
+### Familiar Hardware Specs But More Ports and Storage
+While the screen and exterior see big advancements, under the hood the Switch OLED is unchanged from a specs perspective. It runs on the same Nvidia Tegra X1 mobile chip and delivers identical **gameplay, graphics performance and battery life** whether in handheld or TV docked mode. 
+Portability remains around 4-5 hours for most games with battery life extending up to 9 hours for lighter indie titles. Just like the original Switch, extra juice can be gained by disabling wifi and lowering screen brightness. Charging is also still done through the same USB-C port.  
+One minor but welcome addition is an **Ethernet port located on the dock**. This provides more stable online connectivity when the Switch is docked compared to relying on the sometimes unreliable built-in wifi. 64GB of onboard storage also doubles the capacity of launch Switch models while still requiring MicroSD card expansion for extensive digital libraries.
+### Improved Handheld Experience But No Boost To Software
+Despite hardware being a carryover, the Switch OLED's superior screen vastly improves the handheld experience over the original LCD screen. Text, UI elements and games all benefit greatly from the larger **OLED display's increased resolution and pixel density**. Colors truly pop whether playing vibrant Nintendo titles or visually-rich third party games.
+However, the unchanged specs mean the Switch OLED does not enhance games from a technical perspective. Core titles like Zelda Breath of the Wild, Super Smash Bros Ultimate and Animal Crossing remain locked at their original performance profiles on all Switch consoles, with 1080p docked and 720p handheld. 
+Likewise, the system UI, system performance and OS features are completely consistent with the regular Switch model. There is also no enhancement to the ** Switch Online subscription features** such as NES/SNES online games. The enhanced Switch is purely a hardware refresh focused on handheld mode, not a generational leap for software.
+### Upgraded Portable Experience Over Original Switch LCD 
+For new Switch buyers evaluating their options, the Switch OLED is absolutely the model to purchase in 2023 and beyond. Its larger, vibrant OLED screen delivers the premium portable experience Nintendo set out to achieve. Not only are on-screen elements more detailed and crisp, the OLED's improved **contrast ratio produces deeper blacks and more dazzling highlights**. 
+Games truly shine with an immediacy that is lacking on the original Switch's LCD. Whether playing in your hands or propped up with the kickstand, the OLED's enhanced viewing angles provide the clearest picture from any vantage point. Battery life and horsepower remain typical of the Switch standard, but the screen advances make handheld play much nicer.
+Compared to the launch model released over 5 years ago, original Switch owners will also notice a marked upgrade when playing in portable mode on the Switch OLED. Its bigger high-resolution screen makes games feel more cinematic when out and about. Those who primarily play in handheld mode should appreciate the refinements like more comfortable ergonomics and beefier speakers.
+### Few Upgrades Over Updated Regular Switch
+While an upgrade over the launch Switch, the value proposition is cloudier when considering an OLED switch versus the current **regular Switch refreshed in 2019**. Outwardly these builds are practically identical, with equivalent processing power and unchanged battery span. 
+Software support stays consistent as well thanks to Nintendo maintaining feature parity across the lineup. The lack of visual difference when docked makes it tougher to justify an upgrade if TV gaming accounts for the majority of playtime. Joy-con drift remains a concern too, meaning new controllers may be needed regardless.
+In handheld mode, the OLED's supremacy is clearer. But for those satisfied with the current LCD screen, the minor hardware bumps alone likely won't motivate existing Switch owners to replace a functioning system. Only those who value the premium portable experience delivered by the brighter OLED display should seriously consider an upgrade at this time.
+### Conclusion - Improved Portable Experience But Not Major Upgrade
+In conclusion, while the Nintendo Switch OLED does not expand the Switch's technical capabilities, it successfully refines the portable experience that defines the hybrid console's identity. For new players, its vibrant OLED screen, refined ergonomics and expanded storage make it the recommended model without hesitation. 
+Original Switch owners impressed by the enhancements will better appreciate games on-the-go. But those perfectly content with the crispness and performance of the standard Switch may be better off keeping their current hardware, and instead putting funds toward new games rather than a minor hardware revision. 
+Overall, Nintendo has delivered a subtle evolution more so than revolution with the Switch OLED. It substantially upgrades the handheld experience while maintaining full backwards compatibility. For many, those refinements won't outweigh keeping an existing Switch. But as a portable powerhouse, the Switch OLED is set to delight players for years to come.

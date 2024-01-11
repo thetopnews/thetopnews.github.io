@@ -1,0 +1,30 @@
+---
+layout: post
+title: "The Journey of Improving Your Drawing Skills"
+date:   2023-12-30 13:10:18 +0000
+categories: Drawing
+excerpt_image: https://trembelingart.com/wp-content/uploads/2018/05/Drawing-Tips-25.jpg
+image: https://trembelingart.com/wp-content/uploads/2018/05/Drawing-Tips-25.jpg
+---
+
+Drawing well takes time, practice and patience. Many aspire to have drawing skills but get discouraged when their work doesn't look as good as they envision. However, with the right approach and dedication to improving, anyone can develop their drawing abilities. This essay will explore tips, techniques and mindsets that can help you on your journey to better drawings.
+### Understanding the Fundamentals
+Drawing is a learned skill that requires understanding fundamental concepts like **line, tension, compression, light and shade, texture**. When you first start, focus on these basics rather than expecting polished portraits. Take time to consciously think about each mark you make and how it relates to the subject. Step back often to analyze your work with a critical eye. Try holding your drawing up to a mirror - **errors literally stand out** when reflected back to you. Be patient, and remember progression comes from practice, not perfection.
+
+![](https://www.wikihow.com/images/b/b1/Improve-Your-Drawing-Skills-Step-9.jpg)
+### The Power of Persistence  
+Frustration is common when first learning to draw, as expectations of results don't match reality. Your teacher of **brush drawing** wisely said one picture requires a thousand practice sheets. While that seems extreme, the point is you need **a real lot of paper** and drawings to develop skills. Use cheaper paper for early trials rather than good quality sheets. After 100 drawings, you'll be ready for nicer paper occasionally. **Keep drawing** - your hand will obey your eye through repetition. Challenge yourself daily but don't criticize too harshly. Persistence pays off for aspiring artists.
+### Teachers Guide the Way
+When self-teaching, it's easy to fall into bad habits or get stuck not knowing how to progress. A teacher provides **trained eyes and guidance** to point out strengths and weaknesses while giving targeted advice. They ensure you work on the right areas and techniques for your current skill level. Consider taking some basic classes or finding a mentor, even if just initially, to set you on the right path. Teachers expedite the learning process and help avoid wasted efforts pursuing unproductive practices. 
+### Learning From Others
+If in-person instruction isn't possible, learn from others through videos and tutorials. Places like YouTube offer a wealth of **drawing hocus pocus and abracadabra** - artists sharing techniques and demos. Watch how professionals handle tools, observe proportions and methods. Apply their approaches to your own work. Visual learning from various teaching styles exposes you to new ideas and problem-solving strategies. It's like having many teachers to pull from based on your needs.
+### Taking Breaks Reveals Problems  
+When staring intently at a drawing, it's easy to lose perspective and **not see issues clearly**. Stepping away regularly, even for just 5 minutes, lets your eyes and brain reset so you view with **fresh eyes** upon returning. Specific problems jump out instantly after a break that may have gone unnoticed with prolonged focus. Consider walking away every 30 minutes while drawing to gain an outsider's perspective for quality checks and adjustments.
+### Using Mirrors for Self-Critique
+As mentioned, looking at your reflection in a mirror is a drawing **protip that has lasted over half a century**. It's astonishing how the mirror immediately highlights **any mistakes** by reversing the image back to front. Details appear off or out of proportion compared to the reference that were imperceptible before. Keep a small hand mirror by your workspace to periodically check renderings. This "mirror trick" is a key self-critique technique professional artists still swear by for quality control.
+### Finding the Right Mindset  
+Frustration stems partly from hyper-focusing on the end results rather than enjoying the learning process. Relax externally imposed expectations and internally praise progress over time rather than criticizing individual artworks. View each drawing as practice with the goal to observe technique improvements rather than final perfection. Challenge yourself in new ways each session and view mistakes as opportunities rather than failures. With the proper mindset, drawing becomes an engaging journey rather than a dreaded chore.
+### Incorporating Varied Techniques
+Rather than sticking to a single approach, experiment regularly with different techniques like **line work, light/shadows** or varying pencils/papers. Mixing up methods exercises distinct drawing muscles and expands your artistic skills. One day work on contours, another focus on portraits, later try landscapes - exposing yourself to varied subjects keeps practice engaging and exercises diverse visual analysis abilities. Pros progressed by mastering the gamut of techniques - try emulating their developmental practices.
+As with any endeavor, drawing well requires dedication, ongoing study, and allowing yourself to grow at an individual pace over months and years rather than days or weeks. By thoughtfully incorporating the strategies discussed - fundamentals understanding, persistence despite mistakes, guidance from teachers, studying other artists, self-critique breaks, embracing process over results, and mixing techniques - anyone willing to put in the necessary practice can reach their drawing goals. Stay motivated by observing personal improvements rather than comparisons, and have patience for the journey.
+ ![The Journey of Improving Your Drawing Skills](https://trembelingart.com/wp-content/uploads/2018/05/Drawing-Tips-25.jpg)

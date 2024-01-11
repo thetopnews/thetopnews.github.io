@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Understanding Real-World SSD Performance"
+date:   2024-03-27 07:34:09 +0000
+categories: ['News','Gaming']
+excerpt_image: https://i2.wp.com/www.thessdreview.com/wp-content/uploads/2010/05/1r.jpg?resize=293%2C265&amp;is-pending-load=1#038;ssl=1
+image: https://i2.wp.com/www.thessdreview.com/wp-content/uploads/2010/05/1r.jpg?resize=293%2C265&amp;is-pending-load=1#038;ssl=1
+---
+
+Solid state drives (SSDs) bring lightning fast storage speeds compared to mechanical hard disk drives (HDDs). However, there are many factors that can impact an SSD's true performance in real-world use cases. In this article, we will explore the key aspects that determine an SSD's speeds, including **interface protocols**, **flash memory types**, **drive size/architecture**, **sequential vs random I/O**, **queue depth**, and **external enclosure limitations**. Let's dive deeper into each area.
+### **PCI Express Interface Speeds and Lane Counts**
+The interface between an SSD and the host system, such as **PCIe Gen 3, PCIe Gen 4**, or SATA, determines the maximum bandwidth available. **PCIe Gen 3** interfaces support transferring data at around 985 megabytes per second (MB/s) per lane, while **PCIe Gen 4** doubles this to around 1.97 gigabytes per second (GB/s) per lane. SSDs with more PCIe lanes can utilize higher aggregate bandwidth - for example, an x4 PCIe Gen 4 SSD supports up to around 7.88GB/s of throughput. This makes the interface protocol a major factor in an SSD's maximum speeds. 
+
+![](https://i1.wp.com/www.thessdreview.com/wp-content/uploads/2010/05/All-The-SSDs.jpg?fit=958%2C638&amp;ssl=1)
+### **MLC, TLC, and QLC NAND Flash Differences**  
+The type of NAND flash memory chips inside an SSD also impacts performance. **Multi-level cell (MLC)** NAND is the fastest but most expensive option. **Triple-level cell (TLC)** NAND has become commonplace as it offers decent speeds at lower prices but writes can slow without an SLC cache. **Quad-level cell (QLC)** NAND delivers high capacities but suffers from sluggish writes beyond the SLC cache areas. In general, drives utilizing more advanced flash see better random access speeds and endurance.
+### **Drive Size Architectures and Parallelism**
+Larger capacity SSDs tend to distribute data accesses across more flash memory chips simultaneously via parallelization techniques. This boosts their sequential read speeds compared to smaller models limited to fewer NAND dies operating in lockstep. For example, a 1TB NVMe SSD may utilize 32 flash packages in parallel for over 6GB/s sequential reads, while a 250GB drive only uses 8 packages and peaks under 2GB/s. Drive size directly impacts the amount of parallelism available.
+### **The Difference Between Sequential and Random I/O Performance**  
+While SSDs excel at sequential transfers of large files, random I/O performance for small files or inaccessible locations on the flash can fall far below maximum ratings. This is because random data blocks are located across the entire physical storage area, requiring rapid address translation and noncontiguous accessing. Real-world programs like booting an operating system or installing applications involve plenty of unpredictable small file transfers, demonstrating mixed usage rather than optimal sequential throughput.
+### **How Queue Depth Impacts Achieved Throughput**
+An SSD's controller chip can only process a finite number of input/output (I/O) operations simultaneously in its queue before stalling. At low outstanding I/O depths resembling normal desktop workloads, an SSD may only reach around 30-40% of its maximum rated speeds. However, drives can multiply these speeds manifold when benchmarked at high synthetic queue depths that flood the controller with more outstanding commands than occur in real use. Understanding an SSD's performance at common queue depths versus best-case depths is important.
+### **External Enclosure Interface Limitations on Portable SSDs**  
+While internal NVMe SSDs connect directly via high-speed PCIe, portable external models must communicate through interfaces like USB, Thunderbolt, or WiFi that adversely constrain transfer rates versus internal capacities. Older USB 3.0 and USB 3.1 Gen 1/2 deliver only 500-1050MB/s, bottlenecking all NVMe drives. Even USB 3.2 Gen 2×1 at around 2000MB/s limits most models. For full performance, a USB 3.2 Gen 2×2, Thunderbolt 3, or Thunderbolt 4 enclosure unlocking speeds over 4000MB/s is necessary.
+### **Putting it All Together - Realistic Expectations for SSD Performance**
+As we have explored above, SSD speeds are impacted by a multitude of interdependent factors including interface protocols, NAND technology, drive size/architecture, usage models, queue depth, and the connection method for external drives. While datasheet specifications advertise maximum sequential transfers, real-world desktop workloads combining both small random and large sequential I/O will see far lower average speeds. Understanding these important concepts will help users establish realistic expectations of the true performance an SSD can deliver for their particular storage needs and systems. SSDs remain over 10x faster than HDDs on average in the real world, but peak performance is not always attainable.

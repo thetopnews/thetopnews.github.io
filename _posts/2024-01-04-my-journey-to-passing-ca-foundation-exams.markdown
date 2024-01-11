@@ -1,0 +1,30 @@
+---
+layout: post
+title: "My Journey to Passing CA Foundation Exams"
+date:   2024-01-04 13:04:39 +0000
+categories: Confessions & stories
+excerpt_image: https://i.ytimg.com/vi/FlEml3qOt4I/maxresdefault.jpg
+image: https://i.ytimg.com/vi/FlEml3qOt4I/maxresdefault.jpg
+---
+
+### The Anxiety Before The Results
+It was early February and I had just finished taking my CA Foundation exams. While most papers went well, I was especially worried about my performance on the math section. Although I tried not to overthink it, late at night I found myself **analysing past exam papers** and **comparing my answers** to see where I may have gone wrong. Deep down, I knew math had always been my weak subject and there was a good chance I may have failed just because of it. To avoid dwelling on the results, I decided to enjoy the next 1.5 months and make plans for a second attempt in case I didn't pass.
+
+![](https://i.ytimg.com/vi/3WgGGmvX8YI/maxresdefault.jpg)
+### Preparing For The Worst 
+During that time, I allowed myself to fully relax and forget about studying. I spent time with friends, attended parties, and finally ate my favorite foods that I had avoided while preparing. On the surface I told worried relatives I expected to pass, but internally I felt sure I would fail. As the results date approached, I desperately prayed and hoped to avoid finding out my fate. On the day results were set to release, I kept putting off checking as long as possible, dreading seeing the failure on my screen.
+### The Shock of Success
+Finally curiosity got the better of me and at 3:09pm I steeled myself to **search the results portal**. Much to my surprise, instead of a failure message, it read "PASS". I couldn't believe my eyes - all my **worrying and overthinking** had been for nothing! Elated, I ran through the house shouting the news. My brothers had to pay up bets they'd made that I'd fail, and for once my father didn't criticize my lower math score. Though I still had room for improvement, passing Foundation on my first attempt was an amazing feeling I'll never forget.
+### Celebrating With Friends  
+To celebrate with the people who had supported me, I used savings from side work to throw a small party for my village friends. Though a simple affair with local **snacks like samosas and momos**, everyone enjoyed themselves thanks to the celebratory mood. It was wonderful to see those who had cheered me on so happily, despite my father's reluctance to acknowledge my achievement. The experience taught me the power of community and **social support systems** during challenging times.
+### Keeping My Head In The Game
+After the initial celebrations, I quickly realized Foundation was just the beginning of my CA journey. Seeing the Intermediate syllabus was daunting and brought me back to reality. I knew I would need to **double down on my studies**, develop even stronger **time management skills**, and put in long hours of consistent **preparation and practice** if I wanted to succeed at the next level. Letting past results distract me wouldn't serve my future goals. It was time to refocus, learn from my experiences, and start planning how to take my performance to the next level.
+### Reflecting On Growth 
+Failing my first Foundation attempt, while difficult at the time, ended up being a blessing in disguise. It pushed me to identify weaknesses like math and address them proactively. More importantly, it helped me gain a true understanding of my **study habits and attitude** - things I would have carried into Intermediate without reflecting had I passed the first time. The second go around, I approached my preparation in a more organized, methodical way. Rather than last-minute cramming, I focused on steady, regular practice of questions and previous papers. Going from a mindset of last-minute panicking to disciplined planning was instrumental in my success.
+### Mastering Time Management   
+Looking back, one of the biggest differences was how I allocated my time. During busy exam seasons, it's easy to waste hours on unproductive activities like **mindlessly scrolling social media** instead of focusing. I learned to block out specific slots for each subject with breaks in between. Preparing early in managed chunks left room to revisit tough topics without feeling rushed or overwhelmed come exam day. It also allowed me to better gauge pacing for timed papers. Going forward, strong **time blocking and self-discipline** will continue serving me well as Chartered Accountancy gets more challenging.
+### Finding The Right Study Methods
+Another lesson was tailoring my approach to suit each subject. For theory-heavy topics like law, extensive note-making and rewriting helped cement concepts for long-term retention. Meanwhile, constantly practicing questions under time pressure boosted my speed for quantitative papers. Speaking to seniors also gave insight into **high-yield areas to prioritize based on past trends**. Going forward, I'll keep an open mind to new techniques and constantly refine my strategy based on feedback. With the right tools and dedication, anything is possible - even subjects I once thought were my weaknesses.
+### Gaining Valuable Life Lessons  
+Overall, the experience of passing my Foundation exams was a true journey of personal growth. Not only did I learn directly applicable academic skills, but also valuable life lessons about resilience, perseverance and believing in myself. While setbacks will surely continue throughout my CA path, I now have more confidence handling pressure and disappointment in a constructive way. My failed first attempt taught me as much, if not more than my eventual success. Now with this solid foundation of knowledge and well-rounded perspectives, I feel ready to take on all future challenges the chartership throws my way.
+ ![My Journey to Passing CA Foundation Exams](https://i.ytimg.com/vi/FlEml3qOt4I/maxresdefault.jpg)

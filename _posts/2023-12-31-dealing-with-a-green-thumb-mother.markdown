@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Dealing with a Green Thumb Mother"
+date:   2023-12-31 14:21:20 +0000
+categories: Gardening
+excerpt_image: https://media1.popsugar-assets.com/files/thumbor/wLJTZhA30p2qn4tHqKmcJFNuawQ/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2014/05/19/760/n/24155406/8b90bdb814c5c9eb_Screen_Shot_2014-05-19_at_1.15.16_PM/i/Mommy-Got-Green-Thumb.png
+image: https://media1.popsugar-assets.com/files/thumbor/wLJTZhA30p2qn4tHqKmcJFNuawQ/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2014/05/19/760/n/24155406/8b90bdb814c5c9eb_Screen_Shot_2014-05-19_at_1.15.16_PM/i/Mommy-Got-Green-Thumb.png
+---
+
+### Negotiating plant space in the home
+As a young adult still living at home, it can be difficult to navigate your own needs while respecting your parents' space and belongings. This was the challenge I faced with my plant-loving mother. Our small home was overflowing with her beloved greenery, leaving little room for my own activities and privacy. While I appreciated her passion, some adjustments were needed to find a balanced compromise. 
+Rather than demanding sudden changes, I knew **open communication and mutual understanding** would be most effective. My first step was expressing gratitude for all she had provided, from putting a roof over my head to nurturing her botanical "children." With kindness and perspective, I explained how certain areas like the bathroom now felt too crowded. Mom listened without judgment, eager to accommodate as long as her plants remained happy and healthy. 
+
+![](https://myoakwoodlife.com/wp-content/uploads/2020/02/oakwoodlife-blog-green-thumb-elderly.jpg)
+### Creative solutions for **indoor plant displays**
+Together we brainstormed creative solutions beyond simply removing plants. Mom's years of experience growing everything from succulents to monsteras meant her knowledge could be tapped. We decided some tabletop plants could be hung from the ceiling with macrame holders, freeing up counter space. For the bathroom, I offered to build multi-tiered shelves mounted on the walls beside the toilet and sink. This vertical **plant shelf arrangement** allowed room for foliage while maintaining privacy. With teamwork, balance was found.
+### An outdoor oasis in the making 
+Knowing Mom's green thumb showed no signs of slowing, I proposed a long-term project: converting part of the backyard into a functional greenhouse. This would provide an expanded home for her ever-growing collection while beautifying our outdoor space. On weekends, we researched design plans and gathered supplies. Over several months, the **outdoor greenhouse studio** took shape complete with automatic watering, lighting, and various plant zones. It became a retreat where Mom spent happy hours nurturing new growth. The finished project was a source of pride for us both.
+### Cultivating understanding through open ears 
+Navigating changes within a family home takes empathy, compromise, and open dialogue on all sides. For any adult still living with parents, it's easy to see issues one-dimensionally from your perspective alone. **Active listening** is key to understanding other needs equally. In my situation, being willing to understand where Mom was coming from, to value her contributions equally, and to collaborate on agreeable solutions led to a respectful resolution. Communication and teamwork can work wonders in any shared living situation.
+### Appreciating life's small blessings
+Looking back, I'm grateful for what began as a source of tension, as it strengthened my bond with Mom and appreciation for her passion. Her botanical collections that once overwhelmed now seem charming in perspective and remind me daily of nature's beauty. Though it took time and effort, **finding balance through respectful discussion** left our home environment and relationship much richer. Even in difficult subjects, focusing on understanding others and mutual agreement can nurture positive outcomes.
+### A lesson in consideration, cooperation and growth  
+Early adulthood comes with learning to see beyond one's self while also asserting independence. The plant situation taught valuable lifelong lessons in considering others, cooperation, and being open to growth through respectful dialog. By communicating calmly and creatively across perceived divides, **positive change became possible**. While challenges will always arise sharing space as families, remembering our shared care and relying on compassion gets us much further than resistance or demands. Through open ears and hearts, even very "green" situations can blossom.
+ ![Dealing with a Green Thumb Mother](https://media1.popsugar-assets.com/files/thumbor/wLJTZhA30p2qn4tHqKmcJFNuawQ/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2014/05/19/760/n/24155406/8b90bdb814c5c9eb_Screen_Shot_2014-05-19_at_1.15.16_PM/i/Mommy-Got-Green-Thumb.png)
