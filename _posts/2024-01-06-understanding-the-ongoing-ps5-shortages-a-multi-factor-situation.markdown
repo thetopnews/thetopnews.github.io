@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Understanding the Ongoing PS5 Shortages - A Multi-Factor Situation"
+date:   2024-01-06 12:21:20 +0000
+categories: ['News','Gaming']
+excerpt_image: https://static3.gamerantimages.com/wordpress/wp-content/uploads/2021/05/ps5-consoles-and-controllers.jpg
+image: https://static3.gamerantimages.com/wordpress/wp-content/uploads/2021/05/ps5-consoles-and-controllers.jpg
+---
+
+### Initial Production Planning Underestimated Record-Breaking Demand
+Sony and other console makers face an impossible task when planning production volumes years in advance - accurately predicting demand. With limited data, **next-generation console launch demand forecasting** is extremely challenging. For the PS5, Sony likely did not expect the unprecedented interest. Over a million pre-orders in under a week showed a level of demand that had not been seen before. Meeting such massive interest would require much higher initial manufacturing volumes than what was realistically achievable.
+
+![](https://www.gamespot.com/a/uploads/screen_kubrick/1179/11799911/3828776-screenshot2021-05-10at7.34.16am.png)
+### Ramping Up Mass Production Takes Significant Time and Resources 
+Once a new product is finalized, manufacturers must refine their production lines and optimize yields. This process entails addressing inevitable issues that arise at scale. Software routines need adjustment, additional testing ensures quality standards are met, and worker training reduces startup inefficiencies. Maximizing throughput is a gradual process that demands substantial financial investments and many person-hours. For a technically advanced product like the PS5, the time needed to hit design specifications was underestimated.   
+### A Perfect Storm of New Technologies Flooded an Already Strained Supply Chain
+2020 saw the simultaneous launch of numerous hotly-anticipated products spanning computers, gaming, phones and more. The PS5, Xbox Series X, new Nvidia and AMD graphics cards, latest Ryzen CPUs and iPhones all hit the market within months. However, the fabs producing the cutting-edge chips inside, TSMC and Samsung, have limited capacity. This massive increase in demand overwhelmed the supply chain, as procuring components and transporting finished goods worldwide became vastly more complicated.
+### COVID-19 Exacerbated Existing Manufacturing and Logistics Challenges  
+The pandemic introduced unprecedented disruptions across industries globally. Factory shutdowns slowed production for months, as safe work measures were established. Social distancing also reduced on-site staffing levels initially. Meanwhile, suppliers faced workforce shortages. Transporting goods became riskier and more expensive due to storage space limitations and regional lockdowns. These COVID-19 impacts exacerbated the already immense difficulties of satisfying skyrocketing demand.
+### Online Scalping Artificially Inflated Demand Through Scarcity 
+Where consoles were available, bots and resellers quickly snatched up stock to relist at substantial markups. Within seconds of restocks appearing, scalpers would clear retail inventory. This **scalper-created console scarcity** pushed eager gamers to keep pursuing the elusive PS5, further driving shortages. While Sony combats bots, these unofficial "middlemen" show no signs of slowing as they profit immensely from the hardware shortage. Until sufficient consoles can be manufactured, scalping will remain a major contributing factor to unmet demand.
+### Steadily Increasing Production Throughput is Key to Filling Backorders  
+With each passing month, Sony refines assembly line processes to boost manufacturing volumes. Optimizing equipment setups and workflows allows more units to be produced per hour. Similarly, the company is committing greater chip fabrication capacity at partners like TSMC and Samsung. This **capacity expansion** enables Sony to gradually close the large backlog. However, demand still far exceeds supply for the foreseeable future given strong ongoing sales even amidst shortages. Maintaining production gains will be vital to finally fulfilling pre-orders.
+### Shortages May Slowly Improve But Not Fully Resolve Until 2022
+The delivery of additional PS5 inventory to online and brick-and-mortar retailers will continue over the coming quarters. Certain regions receiving their first major allotments should see temporary relief. However, satisfying global demand remains an immense challenge. While supplies build, interest remains sky-high with many consumers still eager to experience the new generation of gaming. It may take into 2022 before manufacturers can fully catch up to current shortfall levels through sustained output increases. Learning from these difficulties will help Sony and others avoid such severe shortages in the future.
+### Lessons in Conservative Demand Forecasting and Earlier Production Planning  
+The unprecedented demand and supply chain complexities surrounding the PS5 launch have provided many lessons. For future console generations, manufacturers must find more accurate ways to predict interest, while building in larger safety margins. Starting mass production much earlier allows more time to maximize yields and deal with unexpected issues. The companies are also recognizing they need strategies to curb the impact of scalpers on availability. If applied, these learnings could help avoid severe shortages going forward for new videogame hardware and other awaited technologies.

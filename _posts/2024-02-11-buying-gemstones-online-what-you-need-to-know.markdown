@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Buying Gemstones Online - What You Need to Know"
+date:   2024-02-11 15:52:39 +0000
+categories: ['News','Gaming']
+excerpt_image: https://www.justgemstone.com/blog/wp-content/uploads/2014/09/buy-gemstones-online.jpg
+image: https://www.justgemstone.com/blog/wp-content/uploads/2014/09/buy-gemstones-online.jpg
+---
+
+### Intro
+Gemstones are beautiful works of nature that have fascinated people for centuries. With the rise of online marketplaces, it's now easier than ever to shop for gems from the comfort of your home. However, buying precious stones sight unseen does come with some risks. **In this guide**, I'll share my experiences purchasing gems online and provide tips to help ensure you get real, high-quality stones for a fair price.
+
+![](https://www.justgemstone.com/blog/wp-content/uploads/2014/09/buy-gemstones-online.jpg)
+### Warnings about Counterfeits 
+Many experts warn that **gemstone counterfeiting is rampant** on some online marketplaces. While large, reputable retailers have safeguards in place, individual sellers - especially those shipping from overseas - present more risks. When I first started browsing, I saw many cautionary tales about fakes flooding sites like eBay. However, being vigilant and applying simple tests can help distinguish real gems from imitations.
+### My First Foray into Online Gem Shopping
+I was curious to see if genuine gems could indeed be found for reasonable prices, despite the warnings. On eBay, I discovered blue and white sapphires advertised from Asia as "natural" for just $6-7 each. When they arrived, the oval cuts weighed in at a respectable 2.16 and 2.24 carats. To my untrained eye, they looked attractive but I wasn't sure if they were truly sapphires or cheaper Cubic Zirconia (CZ). This began my journey to properly evaluate my mysterious mail-order gems. 
+### Testing the Stones' Authenticity 
+Research taught me that **corundum is one of the hardest minerals**, able to withstand scratches from other materials but able to scratch softer ones like glass. I tested this by attempting to scratch my mystery gems as well as a known CZ I had. As expected, the CZ scratched while the gems remained unscathed. Relieved yet still curious, I dug deeper into identifying traits. Other tests increasingly suggested my gems were genuinely corundum, or natural sapphire as it's commonly called. 
+### Natural or Lab-Grown? Unraveling the Mystery
+While corundum proved authentic, the ultimate question remained - were my stones naturally formed in the earth or lab-grown counterparts? Non-destructive tests available to hobbyists have limitations, and **conclusive laboratory analysis can be costly**. The gems evaporated a drop of water remarkably fast at the 2-3 second mark. This quick drying time commonly indicates lab-grown crystals rather than organic matrix growth underground. Regardless of origin, I was pleased with their appearance and got to satisfy my curiosity - well worth the nominal cost in my view.
+### Lessons Learned and Considerations for Future Gemstone Shopping
+My experiment buying online taught valuable lessons. Individual sellers worldwide take advantage of changing foreign exchange rates and sales volumes to offer attractive price-points. With basics research and testing know-how, discerning natural gems from artificial ones becomes possible. The risk of fakes remains real, yet by shopping reputable sellers with return policies, **gemstone bargains abound online for the savvy buyer.** Overall color, cut, clarity and carat weight emerged as the most crucial factors to assess the viability of a listed stone, far outweighing origin details. Armed with new knowledge, I look forward to future online gemstone adventures!          
+### Rare Big Wins - And the Reality
+Gem forums recount the occasional amazing coups, like the man who scored a multi-thousand dollar emerald for just $20. While feel-good stories inspire dreams of treasure hunting bonanzas, realism must also prevail. Most shoppers will not light upon a hidden parcel of gems worth small fortunes. Nevertheless, with patience and a discerning eye, **significant gemstone finds above typical online prices do periodically surface for the persistent browser**. Beginners seeking guarantees of value may feel more secure starting with established retailers before venturing into less familiar auction territory themselves.        
+### Expert Perspective on Buying Loose Diamonds Online
+To gain insight from extensive experience, I consulted with John, a GIA Graduate Gemologist and industry veteran of over 30 years. He cautions that assessing cut, color and clarity remotely poses challenges, since **nuanced qualities become apparent only with close inspection.** Photos struggle to convey subtle light performance issues or natural variances that discount prices. Viewing candidate diamonds side-by-side best reveals true comparative quality. While savvy online shoppers can succeed, a reputable local jeweler's examination remains the most prudent path whenever circumstances allow. Technology continues advancing inspection tools, yet wise buyers temper hopes of hidden treasures with diligent research every step of the way.
+In conclusion, with awareness of risks and diligence applying authentication techniques, online gem markets unlock extraordinary opportunities for both casual browsers and serious collectors. Readers now better understand strategies for distinguishing real gems from fakes, evaluating purchased stones, and weighing the benefits of different shopping approaches. Above all, focusing on education empowers consumers to safely explore this fascinating category from anywhere in the world.

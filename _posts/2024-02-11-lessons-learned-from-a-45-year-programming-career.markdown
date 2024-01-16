@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Lessons Learned From a 45-Year Programming Career"
+date:   2024-02-11 18:34:11 +0000
+categories: ['News','Gaming']
+excerpt_image: https://www.dailyinfographic.com/wp-content/uploads/2015/09/Programming-Languages-Infographic.jpg
+image: https://www.dailyinfographic.com/wp-content/uploads/2015/09/Programming-Languages-Infographic.jpg
+---
+
+### Early Programming Days Set the Foundation (1972-1995)
+Programming first sparked my interest in high school when I studied **cybernetics** and wanted to understand how computers worked under the hood. In university, I delved further into early languages like **FORTRAN** and **LISP-derived Scheme**. While some had potential uses, others like **FORTRAN** seemed totally divorced from practical applications. **Pascal** appeared very **elegant** in structure yet few industries adopted it. **C** was a tougher language to grasp with its **complex syntax** but proved essential when other options fell short. Overall, those early years exposed me to diverse languages and helped identify what features made some more applicable than others for real-world problems.
+
+![](https://www.dailyinfographic.com/wp-content/uploads/2015/09/Programming-Languages-Infographic.jpg)
+### Delphi Delivery Ushered in New Opportunities (1995-2014)  
+I was surprised to discover the breadth of jobs that utilized **Delphi/Turbo Pascal**. From accounting software to embedded systems for the military, it powered applications across many industries. This opened new doors, leading me to specialize in **automotive software** and **embedded systems** development using Delphi. It became a significant source of stable work, even as newer languages vied for popularity. The language's mix of **high performance** and **development productivity** made it ideal for these domains. While trends came and went, Delphi sustained me through nearly two decades of steady programming work.
+### PHP Web Development Took Off (Mid 1990s-Present)
+Frustrated by **Perl's complexity** for simple web **CGI scripts**, I experimented with PHP and instantly liked its **ease of use**. Since then, I've created over 200 PHP projects from basic dynamic pages to large custom **content management systems (CMS)** for clients. Its approachable syntax combined with powerful features opened the web development field to me. Even after 25+ years, PHP continues providing steady programming opportunities thanks to its massive install base and support for modern frameworks. It established a long career focused on the web that still thrives today.
+### Old Skills Found New Application (Various Years)   
+Somewhat surprisingly, languages I once deemed obsolete like **Clipper** and **GWBasic** produced contract work even over a decade after their supposed expiration dates. Similarly, **C++** and **C++Builder** became indispensable for larger projects needing high performance when other tools failed. This reinforced how a breadth of skills always proves valuable, as outdated technologies sometimes find renewed purpose. It also reminded me to avoid dismissing languages prematurely and stay receptive to unexpected job leads.
+### Conservatism With New Technologies Paid Off (Recent Years)
+While hyped languages like **Go** and **Kotlin** gained mainstream traction, pursuing them yielded no real projects. I took a more measured stance on emerging tech, instead focusing on languages with confirmed industrial usage like **C/C++** and **PHP**. This conservative approach allowed specializing more deeply in proven stacks rather than chasing fleeting trends. It helped land bigger, longer-term contracts than chasing short-lived hype alone could provide. Overall, fundamentals served me better than fads through four decades in the field. 
+### Management Was Not the Right Path For Me (Various Years)  
+On a few occasions, companies offered promotions to management roles overseeing teams. However, I realized project leadership did not bring me the same joy and fulfillment as the coding craft itself. So I chose to remain an individual contributor focused on the technical work. This allowed hopping between diverse clients and domains like **game development**, financial software, and more. It also satisfied my personal preference to stay hands-on with the code rather than transitioning fully into non-technical management.
+### Wisdom For Aspiring Programmers (Present) 
+For those just entering the field, I recommend initially learning languages like **C**, **C++** and **PHP** which have proven track records spanning decades. Rather than treating it like a job, take joy in programming as a hobby even outside work. Stay receptive to opportunities across industries, as work may come from unexpected places keeping obsolete skills alive. Also, evaluate if the lifestyle properly fits you - it's not for everyone. But for those it does fit, this career can remain creatively fulfilling for many years to come.
+### Overall Reflections On A Rewarding Journey (Present)  
+I have never once regretted learning to code those many years ago. It opened countless doors and provided a stable, engaging way to earn a living doing what I love. Even in retirement, I still dabble in personal coding projects to keep my skills sharp. Rather than feeling like work, it has always felt more like an enjoyable hobby or puzzle to solve. For nearly half a century, programming brought me lifelong fulfillment that few other careers could match. I feel grateful to have found such a perfect career path so early in life.

@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Video Games Are for Everyone"
+date:   2024-05-07 15:41:24 +0000
+categories: ['News','Gaming']
+excerpt_image: https://www.azquotes.com/picture-quotes/quote-video-games-are-meant-to-be-just-one-thing-fun-fun-for-everyone-satoru-iwata-126-94-92.jpg
+image: https://www.azquotes.com/picture-quotes/quote-video-games-are-meant-to-be-just-one-thing-fun-fun-for-everyone-satoru-iwata-126-94-92.jpg
+---
+
+### Early Days of Attraction to Gaming
+Early in my childhood, I found myself drawn to the brightly lit arcades filled with flashing lights and sounds of arcade cabinets. Inside these arcades were classic **coin-operated video games** like Pac-Man, Space Invaders, and Ms. Pac-Man that appealed equally to both boys and girls. The simple yet engaging gameplay along with fun pixelated graphics attracted players of all ages and demographics into these social gaming hotspots. Whether it be trying to beat your high score or working together to complete a level, these games brought people together and fueled my initial interest in video games.
+
+![](https://foralltheplayers.co.uk/wp-content/uploads/2020/05/nicolas-gras-ymU88bI25rc-unsplash-1-800x445.jpg)
+### Nintendo Shaped Young Minds  
+During the 1990s, I began playing more video games at home on console systems like the **Nintendo Entertainment System**. However, it was around this time that I noticed Nintendo's marketing shifting more towards boys. Their television commercials and magazine ads routinely portrayed games in a male-centric light. Over time, this exclusionary marketing seemed to take its toll as many of the games started including **over-sexualized female characters** purely meant to pander to the desires of heterosexual male gamers. Such trends worried me as it felt like an discouragement for young girls interested in gaming.
+### Discovery of Early Massively Multiplayer Online Games
+As internet connections became more widespread in households, I was eager to explore the new concept of **massively multiplayer online games**. One of the first major titles that caught my attention was World of Warcraft, which launched in 2004. I loved being able to join large persistent virtual worlds and cooperatively quest with other players. Within these online realms, gender seemed to matter little. People of all backgrounds came together in guilds and factions to overcome challenges. While not without issues, the social structures in these early MMORPGs did much to foster inclusion.
+### Proving Doubters Wrong Through Skill 
+Once I reached my teen years and gained more experience in MMORPGs, I decided to take on roles like being the main tank for raiding parties. Even though the assumption from some was that girls weren't good at these roles requiring coordination and quick-thinking, I was determined to exceed expectations. During one particularly challenging raid, an skeptical player on our team was shocked to hear my experienced voice over our in-game voice chat. This awakened him to the fact that skills and abilities know no bounds of stereotypes like gender. We had a good discussion and laugh about the misconceptions, proving girls can excel at any role given the opportunity.
+### Today's Diverse Communities 
+As an avid gamer well into my adult years now, I've been pleased to see how inclusive and diverse many gaming communities have become. One of my favorite modern genres is **open-world dinosaur survival games** which tend to attract a surprisingly balanced mix of all kinds of players. Different types of games seem to naturally appeal more to certain demographics but good games bring people together regardless. Seeing gamers of all backgrounds enjoying these online worlds together gives me hope that prejudices can be overcome through shared experiences.
+### Developing Games with Inclusion in Mind  
+Drawing from my longtime experiences both positively and negatively in the gaming space, I've felt compelled to become a game developer myself. I'm currently working on my own **dinosaur survival game** with the goal of cultivating an especially welcoming community. Through thoughtful creative choices in the game's systems, gameplay, and presentation, I aim to make all players feel respected as individuals rather than making assumptions based on outward attributes. My hope is that with understanding and effort, games can truly be enjoyed by people of all kinds.
+### A Bright Future for Shared Enjoyment
+Whether it was in the social arcade scenes of the past or within today's sprawling online worlds, video games have always had the power to bring diverse groups of people together in enjoyable shared experiences when judged on their merits rather than superficial attributes. With continued progress towards inclusion through awareness and consideration, the future remains bright for gaming to grow as a universal pastime that nurtures communities celebrating our common interests over anything else that might divide us. When we see each other as fellow gamers first, games truly can and should be for everyone.

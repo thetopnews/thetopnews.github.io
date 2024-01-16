@@ -1,0 +1,30 @@
+---
+layout: post
+title: "The Complete Guide to Playing Your Old Games on the New Nintendo 3DS"
+date:   2024-02-15 04:52:05 +0000
+categories: ['News','Gaming']
+excerpt_image: https://images.nintendolife.com/news/2012/05/talking_point_ds_games_deserve_digital_distribution_on_3ds/large.jpg
+image: https://images.nintendolife.com/news/2012/05/talking_point_ds_games_deserve_digital_distribution_on_3ds/large.jpg
+---
+
+As players upgrade to the latest Nintendo 3DS hardware, many wonder - will my old games and saves still work? This comprehensive guide will answer all your questions about compatibility when moving to the New 3DS.
+### **Are DS and 3DS Games Backwards Compatible with the New Nintendo 3DS?**
+Fortunately, the New 3DS maintains full backwards compatibility with both the Nintendo DS and original 3DS libraries. All your physical cartridge games from these older systems will play without issue on the New 3DS. With its enhanced processing power, the newer hardware actually improves performance for some older titles. So players can feel confident bringing their entire digital and physical video game collections forward to the New 3DS.
+
+![](https://images.nintendolife.com/news/2012/05/talking_point_ds_games_deserve_digital_distribution_on_3ds/large.jpg)
+### **Transferring Digital Downloads and Saves to the New Nintendo 3DS** 
+To access your **digitally downloaded 3DS eShop titles and game saves** on the New 3DS, a system transfer is required. This process securely moves your Nintendo Network ID, downloaded software, save data and settings from one system to another. Launch the System Transfer tool from the Settings menu on both devices when they are next to each other. The transfer may take 30-60 minutes over a local Wi-Fi connection to complete. Just one exception is Xenoblade Chronicles 3D, which requires the New 3DS's unique inputs.
+### **Backwards Compatibility for Physical 3DS Cartridge Games**
+The vast majority of retail 3DS game cartridges will run flawlessly on the New 3DS without issue. However, a small number of enhanced New 3DS titles are designed around its additional controls and processing power. For example, games like Xenoblade Chronicles 3D are optimized to leverage the second circle pad and ZL/ZR buttons that are exclusive to the New 3DS XL system. So while these enhanced versions can still be played, some features may be unavailable or controls remapped on the older 3DS hardware.
+### **Two Options for Transferring Saves and System Data**  
+Nintendo provides **two methods for migrating your save data and system settings** – an online system transfer directly between the two devices using local Wi-Fi, or performing a microSD cardbased transfer with the help of a computer. The on-device system transfer keeps content neatly organized within your Nintendo Network ID but requires both systems present. Moving data via microSD involves more steps but allows transferring to a New 3DS even if the old device is no longer available.
+### **The New Nintendo 3DS Uses a Micro SD Memory Card**
+Unlike previous 3DS models which used a standard Secure Digital (SD) memory card, the New Nintendo 3DS employs Micro SD storage. This means users will need a Micro SD card to transfer their digital games and save data from an older 3DS when upgrading. Micro SD cards are smaller in physical size than standard SD cards but provide the same storage capacities and performance benefits. Purchase a high quality, name brand Micro SD card with at least 32GB capacity for ample game storage.
+### **Take Advantage of New Input Features on the New Nintendo 3DS** 
+Some first-party Nintendo titles like Xenoblade Chronicles 3D and The Legend of Zelda: Majora's Mask 3D are designed around the additional control surfaces available exclusively on the New 3DS. Featuring a second analog nipple and extra shoulder buttons, these enhanced versions give players improved camera control and more intuitive button layouts. While they can still be played, those using older 3DS hardware will miss out on the fully-realized control scheme and gameplay. Make sure to transfer to a New 3DS to experience these exciting re-releases to their fullest potential. 
+### **Backward Compatibility for the Legendary Nintendo DS Library**
+In addition to 3DS games, the New Nintendo 3DS maintains full compatibility with the classic Nintendo DS game library as well. This includes thousands of classic titles across all genres from the multi-billion selling handheld. From Mario Kart DS to The Legend of Zelda: Phantom Hourglass, all original DS cartridges will load and perform exactly as they did on their original hardware. With the New 3DS's brighter and sharper screen, players can finally get that nostalgia fix they've been craving in crystal clear high definition.
+### **Transferring Your Nintendo Network ID** 
+To carry over your digital purchases, game saves and eshop account between systems, your Nintendo Network ID must migrate along as well. Initiating a system transfer securely moves your user profile containing purchase history and linked payment methods. If your NNID is lost for any reason, Nintendo offers support services to help recover access. Just be sure to perform the transfer to retain full ownership of your profile and all associated content.
+### **Summary**
+In conclusion, the New Nintendo 3DS maintains strong backward compatibility, allowing players to enjoy their extensive DS and 3DS libraries. Digital downloads, saves and Nintendo Network profiles require a system transfer for full access on the new hardware. Physical cartridges are generally compatible, but some enhanced New 3DS titles are optimized for its added features. With a little preparation and the right transfer method, upgraders can confidently bring their entire handheld collection along for continued gaming pleasure far into the future.

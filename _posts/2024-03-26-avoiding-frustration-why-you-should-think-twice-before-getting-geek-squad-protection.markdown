@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Avoiding Frustration: Why You Should Think Twice Before Getting Geek Squad Protection"
+date:   2024-03-26 20:45:36 +0000
+categories: ['News','Gaming']
+excerpt_image: https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4995/4995305_sa.jpg
+image: https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4995/4995305_sa.jpg
+---
+
+## The Broken Promises 
+### **Poor Customer Service and Difficult Claims Processes with Geek Squad Warranties**
+Customers often purchase extended warranties believing they are protecting their investment in a new device. However, numerous experiences show that agreements sold through Best Buy's Geek Squad division often fail to deliver on their promises. Stories abound of customers being given the runaround, lied to, and facing obstacles when trying to make a claim. One such story involved a cracked iPhone screen that should have been a straightforward warranty replacement. However, Geek Squad claimed they couldn't perform the repair themselves and wanted to charge a repair fee that was only $10 less than an out-of-pocket repair at a local shop, which had the device repaired faster too. Clearly, the goal seemed to be upselling services rather than honoring commitments. 
+
+![](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4995/4995305_sa.jpg)
+### **Lengthy and Frustrating Dealings with Assurant When Filing Warranty Claims**  
+Even more concerning is how Best Buy pushes customers to deal with Assurant instead of Geek Squad for claims on devices covered by their protection plans. Assurant has a history of poor customer satisfaction according to the Better Business Bureau as well. One customer hoping to replace a broken Galaxy Note 8 stylus found this out the hard way. Even though the item should have been covered, Assurant demanded a $150 payment to replace a $15 part, going against the promises made at sale. On top of that, it took 3 weeks for Assurant to even look into the claim after the device was sent away for inspection. Communication throughout the ordeal was seemingly nonexistent.
+## Avoiding Hassle: Consider Alternative Repair Options
+### **Local Independent Shops Provide Stress-Free Service** 
+Rather than risking frustration with convoluted warranty companies, savvy consumers turn to trustworthy local tech repair businesses. One such customer opted to replace an iPhone battery at a neighborhood shop rather than through Geek Squad as quoted previously. The independently owned store completed the job for $10 less and in a fraction of the time. Reviews consistently show mom-and-pop repair businesses striving to offer quality work without the runaround. While costs may not always perfectly match big box retailers, the comfort of reliability is invaluable. 
+### **Learning DIY Repairs Saves Money and Hassle Long-Term**
+For minor issues, consider exploring repair options you can do yourself. Replacing cracked phone screens or worn-out batteries on popular devices has become simpler than ever with kits and video tutorials available. The upfront investment may be comparable to warranty or shop prices. However, knowing basic repair skills opens opportunities to fix future mishaps without relying on others. It also allows understanding your device more intimately. With a little practice, many owners gain the confidence to perform their own maintenance saves considerably long-term.
+## How Geek Squad Has Strayed From Its Former Customer-First Approach
+### **Previous Warranty Offerings Used to Earn Loyal Customers**  
+Past customers recall a time when Geek Squad warranties provided real value. Repairs were handled smoothly in-store. Any concerns were addressed respectfully by Geek Squad staff invested in keeping clients satisfied. However, this was before larger corporate forces began to steer the brand. Now the priority seems to be selling often unneeded services and accessories rather than serving peoples' tech needs responsibly. While business goals are understandable, the current approach comes at the expense of the trust hard-won in previous years.
+### **Today's Hard Sell Tactics Leave a Bitter Taste**
+Common complaints involve pushy sales pitches that ignore budget or usage realities. Customers feel pressured into costly extended warranties and anti-virus programs they'll never use. Once beloved Geek Squad uniforms have become a symbol of upselling dread rather than helpful solutions. It's sad to see a brand ditch its former customer-centric ethos for empty transactions. Many now avoid the company entirely due to distrust from these negative experiences. Those looking to Best Buy once for reliable service now look elsewhere.
+## In Summary: Pursue Frustration-Free Options 
+In closing, the evidence strongly suggests avoiding Geek Squad for warranty needs and considering alternative repair avenues. Between experiences like broken promises, poor communication from claims handlers, and hard sell tactics used by Geek Squad itself, frustration is too often the outcome. DIY repairs offer budget control and new skills when issues are simple. Independent local shops provide reliable care without hassle usually for fair prices too. Plus, screen protectors go a long way in preventing damage that triggers claims in the first place. With a little research and effort, gadget owners can pursue options leaving them satisfied rather than suffering from broken warranties and empty protection plans.

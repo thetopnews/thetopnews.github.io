@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Reflections on New Years Traditions"
+date:   2023-12-29 01:11:14 +0000
+categories: Food inspiration
+excerpt_image: https://www.bombshellbling.com/wp-content/uploads/2013/12/New-Year-Refelctions-Family-Tradition.jpg
+image: https://www.bombshellbling.com/wp-content/uploads/2013/12/New-Year-Refelctions-Family-Tradition.jpg
+---
+
+This year, my wife and I celebrated the holiday season with just each other amidst the pandemic. Though it lacked the usual bustle and merriment of family gatherings, we found comfort and fellowship in each other's company as small acts of culinary indulgence and nostalgia carried us into the new year. 
+### Cooking for Two
+My wife loves being in the kitchen and this year she was thrilled to have the opportunity to cook a full holiday dinner just for the two of us. Despite our children and grandchildren being unable to join us as usual, she went all out preparing a feast of **traditional Thanksgiving favorites** like tender turkey, flavorsome stuffing, creamy mashed potatoes and peas drowned in rich gravy. The aroma of cinnamon wafting through the home as everything baked created a warm, familiar atmosphere. Though it was a small gathering, we felt blessed setting the table together and enjoying such delicious home cooking.
+
+![](https://www.lovethispic.com/uploaded_images/226776-New-Year-Reflection.jpg)
+### A Memorable Meal
+Sitting down to that beautifully set table piled high with all our favorite dishes, I had to remind myself that we were the only ones partaking in this wonderful meal. My wife's culinary talents never cease to amaze me and I was thrilled to savor every bite without having to share! The food was as comforting and satisfying as ever. Afterwards, we cozied up with mugs of hot coffee, exchanging stories and laughter as the night wound down. It was so relaxing to retire early with a full belly, contented spirits and no cleanup duties - just blissful quiet. Who would have thought a holiday for two could feel so celebratory? 
+### New Year's Day Reflections  
+To ring in the new year, we kept things low key with toasted sandwiches and fresh **fruit preserves**. Spreading creamy butter and tangy **pear chutney** on crusty brown bread, we indulged in thin slices of smoky ham gifted to us by a friend. Simple pleasures carried extra meaning as the world stood still outside our door. With the lights dimmed and front lock secured, we curled up together and dozed off early - a restful beginning to 2021. Looking back, those intimate moments shared just between us two feel all the more precious. Though different than usual, the holidays still brought comfort, connection and hope for what's to come.
+### Honoring Japanese Traditions
+One tradition we enjoyed was preparing **toshikoshi soba**, buckwheat noodles eaten in Japan to ushering the new year. The origins and history of this custom date back to the Edo period when merchants ended each month by eating soba for its nourishing properties. Over time, the practice evolved so that only on New Year's Eve would soba be consumed as **toshi koshi** or "year crossing" soba. Thin, delicate noodles symbolize longevity while their quick preparation suits the busy revelry of ushering out the old and welcoming the new. Following this tradition reminded us of life's continuance despite hard times. 
+### Celebrating with Soba
+On December 31st, we cooked up a pot of soba and topped it with **shaved bonito flakes** for added savory umami. Tradition holds the noodles should be eaten before midnight to sever ties with the past year and start the new one afresh. Slurping the chewy strands as the clock ticked closer to midnight, we reflected on lessons learned and hopes for a healthier, more uplifting 2021. Once the ball dropped, we rinsed our bowls three times as custom dictates before turning in for the night. Though a small rite, preparing and sharing toshikoshi soba together felt meaningful. These simple acts of remembrance sustained spirit and connection even when apart from wider community.
+### Looking Ahead with Hope
+As the new year opens possibilities, I'm grateful for quiet moments shared with my loved one and traditions that root us through change. The holistic comfort of excellent home cooking, companionship and cultural mindfulness sustained us. Going forward, may we all find renewed purpose in small acts of care, connection and conscientious living. Though the future remains uncertain, celebrating both continuity and community however possible gives reason to face each day with composure and hope. This holiday taught gratitude for life's simple blessings and reassurance in facing hardships shoulder to shoulder, one meal, conversation and ritual at a time.
+ ![Reflections on New Years Traditions](https://www.bombshellbling.com/wp-content/uploads/2013/12/New-Year-Refelctions-Family-Tradition.jpg)

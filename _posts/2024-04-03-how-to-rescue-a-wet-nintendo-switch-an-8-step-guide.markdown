@@ -1,0 +1,41 @@
+---
+layout: post
+title: "How to Rescue a Wet Nintendo Switch: An 8-Step Guide"
+date:   2024-04-03 23:45:16 +0000
+categories: ['News','Gaming']
+excerpt_image: https://gemsofwar.com/wp-content/uploads/2021/11/WaterWeird.jpg
+image: https://gemsofwar.com/wp-content/uploads/2021/11/WaterWeird.jpg
+---
+
+## Part 1: What Happened and the Risks of Alcohol
+The Nintendo Switch is a beloved portable gaming console, but one day **portable gaming device** got exposed to a liquid it should never touch - alcohol. Like many electronics, alcohol poses serious risks if it gets inside the Switch due to its conductive properties. So what happened and why is it such a problem? 
+My friend brought their Switch to a party and had it sitting on a table near where drinks were being served. Unfortunately, someone accidentally knocked over a glass of whiskey that spilled directly onto the console. Within seconds, the liquid was soaking into vents and crevices. Alcohol readily dissolves plastics and can corrode delicate circuits if not removed properly. Simply drying the console with a towel risked trapping moisture beneath components. Corrosion from residual alcohol could permanently damage the Switch over time. 
+The most concerning issue was that high-proof liquor like whiskey is very conductive. With alcohol penetrating inside the Switch, it raised the danger of short circuits frying components during the drying process. Clearly some disassembly and meticulous cleaning were necessary to have any hope of rescuing this soaked system.
+## Part 2: Immediate Actions and Data Backup
+The first crisis was over, but the cleanup had just begun. After the initial spill, my friend took some important immediate steps. ###Initial Damage Control
+First, they removed the microSD card containing all game saves and user data, just in case the console became unusable during repairs. No need to lose that information if the worst happened. Next, with the card safely stored, they sealed the soaked Switch inside a ziplock bag. This plastic barrier would stop any drips or residue from spreading during transport. 
+Rice was the drying agent of choice. Into a large sealable container went layers of uncooked rice, with the bagged Switch resting screen-side up. The rice would wick away moisture via absorption. Patience was key, as it would take 1-3 days submerged before checking progress. Even after visible drying, more time might be needed to fully evacuate hidden internal dampness. Fingers crossed the rice treatment did its job before any permanent corrosion set in.
+## Part 3: Full Disassembly for thorough Cleaning
+After 3 days buried in rice, my friend carefully removed the Switch to inspect results. ###Opening it Up 
+On the surface, it seemed mostly dry but the internal state was unknown. Only a full disassembly would reveal how far the alcohol had penetrated or if any damage already occurred. Out came the tiny screws securing each panel, gradually exposing the compact internal assembly piece-by-piece. 
+Lifting away each casing revealed just how much pooled liquid had been absorbed, evident in slight discoloration around vents and ports. Total dismantling was the only path, getting down to individual chips, heat sinks and other vulnerable component levels. Bright lights and magnifying glasses helped spot any missed grime or fluid traces that could later cause issues. Now came the delicate cleaning process with careful scrubbing and drying of highly complex internal mechanisms.
+## Part 4: Cleaning Each Individual Part
+With full access granted by stripping down to the board level, it was time for meticulous **electronics cleaning and repair**. ###Cleansing Each Component
+Cotton swabs and low-concentration isopropyl alcohol acted as the cleaning agents. Swabbing removed visible residue while fresh alcohol further evaporated deep-seated dampness. Anything possibly conductive had to be completely dry to eliminate shorting risks. Each minuscule piece received individualized attention, from chips to screws to plastics. Heat sinks and fans spun clean under gentle scrubbing motions. 
+Special care targeted bus bars, ports and other openings prone to hidden buildup. Bright inspection highlighted stubborn stains for focused treatment. After wiping, free air drying further dehydrated interiors before covering or moving to enclosed areas. Hours passed as the systematic cleansing cycled piece-by-painstaking-piece. 
+Some areas like inside ventilation grates took extended cleanup turns. Small tools aided tight space access for swabbing crevices that regular swabs couldn't reach. Periodic checks under magnification ensured surfaces remained spotless as evaporating alcohol dried completely. Only then did reassembly preparations commence.
+## Part 5: Focused Cleaning of High-Risk Areas 
+Purging all fluid demanded concentration on subtler problem zones. ###Tackling Tricky Trouble Spots
+Special scrutiny targeted specific “high-risk” component locations where gunk easily forms or endures. Charging ports, fans, and the meticulously designed heatsink assembly housing delicate processors required multiple rounds of scrubbing and rinsing. Residual impurities in these areas posed greater dangers than broad exterior areas. 
+Other key priorities included vents, seam lines, and hidden cavities around buttons/ports. Gap-toothed swab angling attacked particularly fiddly crevices too infinitesimal for full cotton swab heads. Nano-droplets depositing in niches were wicked away by swiping from multiple angles until gleaming dry. 
+The most sensitive spots encircling processor chips and memory modules earned extra cleaning cycles. Preserving these critical systems justified over-caution to banish even shadowy moisture risks. Repeated checks under the microscope affirmed surfaces free from any spoors before moving forward. Only the strictest sanitation standards were acceptable for such a precise device.
+## Part 6: Inspection and Thermal Compound Replacement 
+With interior scrub-down complete, it was verdict time. ###Quality Control 
+Under high magnification and bright lighting, no smudges or damp pockets remained anywhere. Even the most hidden crannies showed no signs of embedded alcohol residue or other contaminants. Every piece had been painstakingly returned to an entirely clean state. 
+Attention then shifted to heat transfer surfaces. Heat sinks and thermal pads beneath key chips underwent critical examination. Sadly, some alcohol exposure had degraded bonding adhesives between these vital barriers. Deteriorated compounds lost effectiveness, inviting future overheating dangers. Proper operation mandated replacing degraded materials with high-quality **thermal interface material**. 
+Fresh applications of non-conductive grease restored optimal heat dissipation pathways. Re-adhered heatsinks and pads stabilized temperatures again for long-term reliability. Only now could final assembly commence with full confidence in the rescue effort's success.
+## Part 7: Reassembly and Power-On Test  
+The home stretch was reassembling the spruced Nintendo Switch. ###Putting it All Back Together
+Reverse disassembly order guided precise component replacement into the case. Specialized bit drivers and miniature screws supported delicate work. Panel edges aligned perfectly into place while cautious torquing secured each border. Gradually the complex mechanism vanished behind well-fitting exterior shells once more. 
+One last step remained - the moment of truth. With crossed fingers, the power button press initiated a vibration. Loading bar movement brought tentative celebration. The main menu appeared without issue, software launched smoothly and wireless functions worked without fault. Tests played for hours without relapse, showcasing the sterling work.
+Deep sighs of relief followed the successful power-on. With care and patience, this Switch was fully restored to health following its unintentional alcohol immersion. Skilled cleaning triumphed over the damaging possibility of permanent malfunction.

@@ -1,0 +1,29 @@
+---
+layout: post
+title: "The Advantages of Owning Physical Video Game Copies"
+date:   2024-03-18 07:33:13 +0000
+categories: ['News','Gaming']
+excerpt_image: https://i0.wp.com/lemmymorgan.com/wp-content/uploads/2019/01/Reasons-to-buy-physical-games.jpg
+image: https://i0.wp.com/lemmymorgan.com/wp-content/uploads/2019/01/Reasons-to-buy-physical-games.jpg
+---
+
+### Permanent Ownership Over Temporary Licenses  
+Owning a **physical video game copy** grants permanent ownership unlike digital games which are only licensed for as long as the platform remains supported. With physical games, consumers **own the medium** holding the game's data rather than a non-transferable software license from an online storefront. This means gamers can play their purchased games whenever they want without worrying if an online service or developer goes offline. While digital distribution has many perks, the temporary nature of software licenses does not replace the sense of ownership granted by a box on the shelf.
+
+![](https://i0.wp.com/lemmymorgan.com/wp-content/uploads/2019/01/Reasons-to-buy-physical-games.jpg)
+### Resale Value and an Appreciating Collection
+When finished with a physical game, fans have the option to **resell or trade games** to recoup some of the purchase cost. The used game market allows gaming communities to share and experience more titles. Meanwhile, rare or out of print games can **appreciate greatly in value** for dedicated collectors over time. These appreciate physical assets are not possible to own long term in digital formats where software licenses cannot be transferred or games eventually delisted. Maintaining a curated physical collection carries tangible worth much like other collector hobbies.
+### Guaranteed Access Without Online Dependence  
+With a physical game cartridge or disc, the full content is contained locally ensuring play **is never dependent on an internet connection** or online accounts. While day one patches are still an issue, physical media insulates against server outages disrupting digital gameplay entirely. This avoids frustration from spotty rural connections preventing access. Meanwhile, physical games' offline functionality remains **future proofed for as long as the console is functional** rather than tied to niche digital storefronts which can unexpectedly shutter.
+### No Storage Space or Download Restrictions
+Bulk game downloads and constant updates are an unnecessary hurdle overcome by owning physical releases. Heavy **game installation footprints** are no barrier and internet data caps or monthly quotas can be respected. Physical discs instantly provide the full game content at launch without the consumption of limited drive space or connection speeds that plague digital distribution. Loading is also faster from the optical media than waiting for sizable downloads to complete.
+### Consumer Rights Remain Secure
+While convenient, digital game licenses can be revoked or blocked by publishers at any time with little recourse for loyal customers. However, owning the physical installation medium ensures gamers **maintain control and access indefinitely**. Pre-order bonuses, demos and other extras included are kept forever rather than relying on access windows or now expired online services. This protects the investment and guarantees the right to play well after servers power down. 
+### Supporting Local Gaming Communities
+Buying physical games from local **video game retailers provides ongoing support** for the knowledgeable staff, midnight launches and community events that enhance the gaming experience. These brick and mortar stores offer unparalleled service browsing expansive shelf selections which online shops cannot replicate. Discussing games with fellow fans and clerk recommendations fosters **real-world connections central to gaming culture**. As digital takes over, protecting these community touchpoints remains important for the social aspects of the hobby.
+### Exceptions for Deep Digital Discounts  
+While rare, some older or niche titles may only be **feasibly acquired through deep digital discounts** since physical copies are scarce and aggressively priced in the aftermarket. Here, temporarily licensing the software may be preferable to missing out entirely or paying inflated fees. However, fans should still consider **whether indefinite access and ownership is worth waiting for a physical re-release or price drop to requested levels**. Playing now versus securing rights later requires weighing personal priorities. 
+### Physical is Recommended for Premium New Releases
+For most major new releases, the extra cost of a physical version is well justified by the **peace of mind** knowing the right to replay is never subject to platform shutdowns or license revocation decades later. Games poised to **become classics or maintain long term value** are best owned concretely as opposed to digitally where unexpected turmoil can lock fans out forever. And while going digital is convenient for some older or niche selections, physical ownership makes the most sense for franchise tentpoles and premium new releases.
+### Conclusion
+While digital distribution offers uncomplicated access on modern platforms, temporarily licensing games fails to grant true possession comparable to physical media ownership. For securing future access and retaining value, fans are wise to support local retailers and opt for the added security of their gaming library residing on owned discs or cartridges when possible rather than behind account credentials. Games deserve to be played for generations and physical is the sole method ensuring that right in perpetuity.
